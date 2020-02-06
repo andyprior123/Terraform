@@ -23,6 +23,3 @@ resource "azurerm_dns_a_record" "example" {
   ttl                 = 300
   records             = ["8.8.8.8"]
 }
-
-
-Change by Andy on Mac 31/01/2020 - 15:20
